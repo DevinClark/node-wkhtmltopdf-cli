@@ -1,6 +1,6 @@
 {
   "name": "node-wkhtmltopdf-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for wkhtmltopdf",
   "bin": {
     "wkhtmltopdf": "./bin/wkhtmltopdf-centos6-amd64"
