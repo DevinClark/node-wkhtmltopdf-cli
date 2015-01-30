@@ -1,0 +1,21 @@
+{
+  "name": "node-wkhtmltopdf-cli",
+  "version": "1.0.0",
+  "description": "A CLI for wkhtmltopdf",
+  "bin": {
+    "wkhtmltopdf": "./bin/wkhtmltopdf-centos6-amd64"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevinClark/node-wkhtmltopdf-cli.git"
+  },
+  "author": "Devin Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevinClark/node-wkhtmltopdf-cli/issues"
+  },
+  "homepage": "https://github.com/DevinClark/node-wkhtmltopdf-cli"
+}
